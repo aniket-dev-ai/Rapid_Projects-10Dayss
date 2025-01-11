@@ -34,13 +34,13 @@ function Spotify() {
         <SideBar />
         <div
           
-          className="bg-[#1D535D] w-full md:w-[80%] overflow-y-auto max-h-[85vh]"
+          className="bg-[#1D535D] w-full md:w-[80%] overflow-y-auto max-h-[88vh]"
         >
           <NavBar  />
           <Body  />
         </div>
       </div>
-      <div className="h-[15%]">
+      <div className="h-[12%]">
         <Footer />
       </div>
     </div>

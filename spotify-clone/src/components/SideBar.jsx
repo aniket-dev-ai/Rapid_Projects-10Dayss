@@ -6,7 +6,7 @@ import Playlist from "./Playlist";
 
 function SideBar() {
   return (
-    <div className="bg-black w-[20%]  text-white p-2">
+    <div className="bg-black w-[20%] h-[88vh] text-white p-2">
       <div className="flex flex-col gap-10 items-center">
         <div>
           <img
